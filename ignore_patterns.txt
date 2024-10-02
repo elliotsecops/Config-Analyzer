@@ -1,0 +1,2 @@
+ServerTokens OS
+ServerSignature On
